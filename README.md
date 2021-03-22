@@ -1,2 +1,3 @@
-# data_mining_2021
-datasets and demos for data mining 2021
+# Data_mining_2021
+
+Datasets and demos for data mining 2021
