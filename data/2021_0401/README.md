@@ -1,4 +1,4 @@
-# info
+# Info
 
 This Data repo contains the following datasets (in .csv format):
 
